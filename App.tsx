@@ -78,5 +78,6 @@ const styles = StyleSheet.create({
     backgroundColor: IbanInputColors.error.background,
     padding: 5,
     fontSize: 14,
+    borderRadius:5
   },
 });
